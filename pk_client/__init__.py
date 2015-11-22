@@ -2,7 +2,7 @@ import logging
 import json
 from collections import namedtuple
 
-from pk_common import common
+import pk_common as common
 
 logger = logging.getLogger(__name__)
 
