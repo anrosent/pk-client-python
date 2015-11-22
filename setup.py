@@ -8,7 +8,7 @@ config = {
     'author': 'Anson Rosenthal',
     'url': 'https://github.com/anrosent/pk-client-python',
     'author_email': 'anson.rosenthal@gmail.com',
-    'version': '0.3',
+    'version': '0.5',
     'install_requires': ['nose'],
     'packages': ['pk_client'],
     'scripts': [],
