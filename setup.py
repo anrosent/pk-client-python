@@ -6,11 +6,11 @@ except ImportError:
 config = {
     'description': 'Python client API for the pk port knocking server daemon',
     'author': 'Anson Rosenthal',
-    'url': 'https://github.com/anrosent/pk-client-python'.
+    'url': 'https://github.com/anrosent/pk-client-python',
     'author_email': 'anson.rosenthal@gmail.com',
-    'version': '0.1',
+    'version': '0.2',
     'install_requires': ['nose'],
-    'packages': ['pk'],
+    'packages': ['pk_client'],
     'scripts': [],
     'name': 'pk-client-python'
 }
